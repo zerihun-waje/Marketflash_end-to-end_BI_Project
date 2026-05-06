@@ -1,1 +1,18 @@
-# Marketflash_end-to-end_BI_Project
+# Marketflash end-to-end Project 
+## Overview
+
+
+## Project objective
+
+
+## Database Design
+
+
+
+## BI Insight
+
+
+## Closing Remarks
+
+
+
